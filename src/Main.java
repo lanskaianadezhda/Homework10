@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //task1
+        //task 1
         System.out.println("Задача 1");
     }
 }
